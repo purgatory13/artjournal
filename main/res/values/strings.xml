@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="title_text">Art in Nature Journal</string>
+    <string name="grateful_text">What am I observing today?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">login</string>
+    <string name="or_text">or</string>
+    <string name="create_text">Create Account</string>
+    <string name="username_hint">Username</string>
+    <string name="post_title">Title</string>
+    <string name="thoughts">Observations</string>
+    <string name="save_button">Save</string>
+    <string name="menu_title">Menu</string>
+    <string name="Signout">Sign out</string>
+    <string name="no_thoughts_hint">Add an Observation by clicking the + sign or icon above</string>
+</resources>
